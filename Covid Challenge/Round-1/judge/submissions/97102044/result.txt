@@ -1,0 +1,130 @@
+------------- user information -------------
+identity: 97102044
+username: ah.abbasi.ah
+full name: امیرحسین عباسی
+email address: ah.abbasi.ah@gmail.com
+------------- result -------------
+problem name: راند اول (گراف کوچک)
+state: داوری شد
+short judge result: نمره داده شد
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = judge
+Fri Apr 24 21:20:42 +0430 2020
+Language: cpp
+Time Limit: 10.0 s
+Memory Limit: 262144 kB
+Output size limit: 31457280 bytes
+Compiling as cpp
+Enabling Shield For C/C++
+Compiled. Exit Code=0  Execution Time: 3461 ms
+
+Testing...
+20 tests found
+Copying tester executable to current directory
+
+=== TEST 1 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 2 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 3 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 4 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 5 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 6 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 7 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 8 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 9 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 10 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 11 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 12 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 13 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 14 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 15 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 16 ===
+Exit Code = 0
+Time Limit Exceeded (10.05 s)
+
+=== TEST 17 ===
+Exit Code = 0
+Time Limit Exceeded (10.02 s)
+
+=== TEST 18 ===
+Exit Code = 0
+Time Limit Exceeded (10.10 s)
+
+=== TEST 19 ===
+Exit Code = 0
+Time Limit Exceeded (10.03 s)
+
+=== TEST 20 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+Score from 100000: 80000
+
+Total Execution Time: 64827 ms
+

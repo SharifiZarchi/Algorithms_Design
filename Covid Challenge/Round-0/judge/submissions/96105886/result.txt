@@ -1,0 +1,34 @@
+------------- user information -------------
+identity: 96105886
+username: mahsa_sh09
+full name: مهسا شیخی
+email address: mahsa_sh09@yahoo.com
+------------- result -------------
+problem name: راند صفر (گراف کوچک)
+state: داوری شد
+short judge result: خطای کامپایل
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = judge
+Mon Apr 20 23:13:27 +0430 2020
+Language: cpp
+Time Limit: 10.0 s
+Memory Limit: 262144 kB
+Output size limit: 31457280 bytes
+Compiling as cpp
+Enabling Shield For C/C++
+Compiled. Exit Code=1  Execution Time: 1336 ms
+Compile Error
+In file included from shield.cpp:22:0:
+code.c: In function ‘void shuffle_array(Edge*, int)’:
+code.c:27:26: error: ‘std::chrono’ has not been declared
+     unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
+                          ^~~~~~
+
+Total Execution Time: 1752 ms
+

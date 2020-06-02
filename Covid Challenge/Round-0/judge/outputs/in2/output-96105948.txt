@@ -1,0 +1,234 @@
+dfghj201 14
+
+dfghj200 14
+
+dfghj197 14
+
+dfghj196 14
+
+dfghj196 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj193 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj192 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj191 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj190 14
+
+dfghj187 13
+
+dfghj186 13
+
+dfghj183 13
+
+dfghj182 13
+
+dfghj182 13
+
+dfghj179 13
+
+dfghj179 13
+
+dfghj179 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj178 13
+
+dfghj173 12
+
+dfghj172 12
+
+dfghj169 12
+
+dfghj168 12
+
+dfghj168 12
+
+dfghj165 12
+
+dfghj165 12
+
+dfghj165 12
+
+dfghj164 12
+
+dfghj164 12
+
+dfghj164 12
+
+dfghj164 12
+
+dfghj163 12
+
+dfghj163 12
+
+dfghj163 12
+
+dfghj162 12
+
+dfghj162 12
+
+dfghj162 12
+
+dfghj162 12
+
+dfghj161 12
+
+dfghj160 12
+
+dfghj160 12
+
+dfghj157 12
+
+dfghj157 12
+
+dfghj157 12
+
+dfghj156 12
+
+dfghj156 12
+
+dfghj156 12
+
+dfghj156 12
+
+17
+1 1 3 1
+1 1 2 1
+2 1 2 1
+2 2 3 1
+1 7 1 2
+1 7 1 2
+2 7 3 2
+1 8 2 1
+1 8 2 1
+1 9 1 3
+1 9 1 3
+2 9 2 3
+1 10 3 2
+1 10 1 2
+2 10 1 2
+1 11 2 3
+2 11 1 3

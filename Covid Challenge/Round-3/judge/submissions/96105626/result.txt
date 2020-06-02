@@ -1,0 +1,159 @@
+------------- user information -------------
+identity: 96105626
+username: barbod.pajoum00
+full name: باربد پژوم
+email address: barbod.pajoum00@gmail.com
+------------- result -------------
+problem name: راند سوم (عملیات‌های محدود)
+state: داوری شد
+short judge result: نمره داده شد
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = judge
+Sat May 16 01:14:56 +0430 2020
+Language: cpp
+Time Limit: 10.0 s
+Memory Limit: 262144 kB
+Output size limit: 20971520 bytes
+Compiling as cpp
+Enabling Shield For C/C++
+Compiled. Exit Code=0  Execution Time: 4140 ms
+
+Testing...
+25 tests found
+Copying tester executable to current directory
+
+=== TEST 1 ===
+Exit Code = 134
+Time: 0.08 s
+Runtime Error
+
+=== TEST 2 ===
+Exit Code = 134
+Time: 0.49 s
+Runtime Error
+
+=== TEST 3 ===
+Exit Code = 134
+Time: 1.25 s
+Runtime Error
+
+=== TEST 4 ===
+Exit Code = 134
+Time: 0.01 s
+Runtime Error
+
+=== TEST 5 ===
+Exit Code = 134
+Time: 0.00 s
+Runtime Error
+
+=== TEST 6 ===
+Exit Code = 0
+Time: 0.76 s
+ACCEPTED
+
+=== TEST 7 ===
+Exit Code = 0
+Time: 1.16 s
+ACCEPTED
+
+=== TEST 8 ===
+Exit Code = 0
+Time: 9.70 s
+ACCEPTED
+
+=== TEST 9 ===
+Exit Code = 134
+Time: 4.39 s
+Runtime Error
+
+=== TEST 10 ===
+Exit Code = 134
+Time: 5.33 s
+Runtime Error
+
+=== TEST 11 ===
+Exit Code = 134
+Time: 5.14 s
+Runtime Error
+
+=== TEST 12 ===
+Exit Code = 134
+Time: 4.77 s
+Runtime Error
+
+=== TEST 13 ===
+Exit Code = 134
+Time: 5.70 s
+Runtime Error
+
+=== TEST 14 ===
+Exit Code = 134
+Time: 2.22 s
+Runtime Error
+
+=== TEST 15 ===
+Exit Code = 134
+Time: 1.06 s
+Runtime Error
+
+=== TEST 16 ===
+Exit Code = 134
+Time: 1.71 s
+Runtime Error
+
+=== TEST 17 ===
+Exit Code = 134
+Time: 0.50 s
+Runtime Error
+
+=== TEST 18 ===
+Exit Code = 134
+Time: 2.21 s
+Runtime Error
+
+=== TEST 19 ===
+Exit Code = 134
+Time: 0.37 s
+Runtime Error
+
+=== TEST 20 ===
+Exit Code = 134
+Time: 2.17 s
+Runtime Error
+
+=== TEST 21 ===
+Exit Code = 134
+Time: 0.08 s
+Runtime Error
+
+=== TEST 22 ===
+Exit Code = 134
+Time: 0.34 s
+Runtime Error
+
+=== TEST 23 ===
+Exit Code = 134
+Time: 0.06 s
+Runtime Error
+
+=== TEST 24 ===
+Exit Code = 134
+Time: 0.02 s
+Runtime Error
+
+=== TEST 25 ===
+Exit Code = 134
+Time: 0.00 s
+Runtime Error
+
+Score from 100000: 12000
+
+Total Execution Time: 68082 ms
+

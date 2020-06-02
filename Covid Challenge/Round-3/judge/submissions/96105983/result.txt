@@ -1,0 +1,159 @@
+------------- user information -------------
+identity: 96105983
+username: ali218
+full name: علی قدیرلی
+email address: alighadirli713@gmail.com
+------------- result -------------
+problem name: راند سوم (عملیات‌های محدود)
+state: داوری شد
+short judge result: نمره داده شد
+penalty: 100%
+judge score: 1
+judge score with delay: 1
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = judge
+Fri May 15 21:21:31 +0430 2020
+Language: cpp
+Time Limit: 10.0 s
+Memory Limit: 262144 kB
+Output size limit: 20971520 bytes
+Compiling as cpp
+Enabling Shield For C/C++
+Compiled. Exit Code=0  Execution Time: 3701 ms
+
+Testing...
+25 tests found
+Copying tester executable to current directory
+
+=== TEST 1 ===
+Exit Code = 0
+Time: 0.56 s
+ACCEPTED
+
+=== TEST 2 ===
+Exit Code = 0
+Time: 1.79 s
+ACCEPTED
+
+=== TEST 3 ===
+Exit Code = 0
+Time: 3.84 s
+ACCEPTED
+
+=== TEST 4 ===
+Exit Code = 0
+Time: 0.10 s
+ACCEPTED
+
+=== TEST 5 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+=== TEST 6 ===
+Exit Code = 0
+Time: 0.71 s
+ACCEPTED
+
+=== TEST 7 ===
+Exit Code = 0
+Time: 1.01 s
+ACCEPTED
+
+=== TEST 8 ===
+Exit Code = 0
+Time: 4.04 s
+ACCEPTED
+
+=== TEST 9 ===
+Exit Code = 0
+Time: 4.16 s
+ACCEPTED
+
+=== TEST 10 ===
+Exit Code = 0
+Time: 3.89 s
+ACCEPTED
+
+=== TEST 11 ===
+Exit Code = 0
+Time: 4.56 s
+ACCEPTED
+
+=== TEST 12 ===
+Exit Code = 0
+Time: 4.41 s
+ACCEPTED
+
+=== TEST 13 ===
+Exit Code = 0
+Time: 4.24 s
+ACCEPTED
+
+=== TEST 14 ===
+Exit Code = 0
+Time: 3.46 s
+ACCEPTED
+
+=== TEST 15 ===
+Exit Code = 0
+Time: 2.86 s
+ACCEPTED
+
+=== TEST 16 ===
+Exit Code = 0
+Time: 4.12 s
+ACCEPTED
+
+=== TEST 17 ===
+Exit Code = 0
+Time: 1.64 s
+ACCEPTED
+
+=== TEST 18 ===
+Exit Code = 0
+Time: 4.85 s
+ACCEPTED
+
+=== TEST 19 ===
+Exit Code = 0
+Time: 1.32 s
+ACCEPTED
+
+=== TEST 20 ===
+Exit Code = 0
+Time: 4.85 s
+ACCEPTED
+
+=== TEST 21 ===
+Exit Code = 0
+Time: 0.56 s
+ACCEPTED
+
+=== TEST 22 ===
+Exit Code = 0
+Time: 1.32 s
+ACCEPTED
+
+=== TEST 23 ===
+Exit Code = 0
+Time: 0.42 s
+ACCEPTED
+
+=== TEST 24 ===
+Exit Code = 0
+Time: 0.11 s
+ACCEPTED
+
+=== TEST 25 ===
+Exit Code = 0
+Time: 0.00 s
+ACCEPTED
+
+Score from 100000: 100000
+
+Total Execution Time: 90493 ms
+
