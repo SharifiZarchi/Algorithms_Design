@@ -1,0 +1,175 @@
+------------- user information -------------
+identity: 94170733
+username: mitraahadpour18
+full name: احدپور
+email address: mitraahadpour18@gmail.com
+------------- result -------------
+problem name: راند آخر
+state: داوری شد
+short judge result: نمره داده شد
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = judge
+Fri Jun  5 13:51:05 +0430 2020
+Language: cpp
+Time Limit: 5.0 s
+Memory Limit: 262144 kB
+Output size limit: 20971520 bytes
+Compiling as cpp
+Enabling Shield For C/C++
+Compiled. Exit Code=0  Execution Time: 2187 ms
+
+Testing...
+30 tests found
+Copying tester executable to current directory
+
+=== TEST 1 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 2 ===
+Exit Code = 139
+Time: 0.01 s
+Runtime Error
+
+=== TEST 3 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 4 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 5 ===
+Exit Code = 0
+Time Limit Exceeded (5.08 s)
+
+=== TEST 6 ===
+Exit Code = 0
+Time Limit Exceeded (5.12 s)
+
+=== TEST 7 ===
+Exit Code = 0
+Time: 0.00 s
+WRONG
+
+=== TEST 8 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 9 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 10 ===
+Exit Code = 0
+Time Limit Exceeded (5.01 s)
+
+=== TEST 11 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 12 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 13 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 14 ===
+Exit Code = 139
+Time: 0.10 s
+Runtime Error
+
+=== TEST 15 ===
+Exit Code = 0
+Time Limit Exceeded (5.05 s)
+
+=== TEST 16 ===
+Exit Code = 0
+Time Limit Exceeded (5.11 s)
+
+=== TEST 17 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 18 ===
+Exit Code = 0
+Time Limit Exceeded (5.02 s)
+
+=== TEST 19 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 20 ===
+Exit Code = 139
+Time: 0.31 s
+Runtime Error
+
+=== TEST 21 ===
+Exit Code = 139
+Time: 0.41 s
+Runtime Error
+
+=== TEST 22 ===
+Exit Code = 0
+Time Limit Exceeded (5.10 s)
+
+=== TEST 23 ===
+Exit Code = 0
+Time Limit Exceeded (5.07 s)
+
+=== TEST 24 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 25 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 26 ===
+Exit Code = 139
+Time: 0.18 s
+Runtime Error
+
+=== TEST 27 ===
+Exit Code = 0
+Time: 0.97 s
+WRONG
+
+=== TEST 28 ===
+Exit Code = 139
+Time: 0.00 s
+Runtime Error
+
+=== TEST 29 ===
+Exit Code = 0
+Time: 0.98 s
+WRONG
+
+=== TEST 30 ===
+Exit Code = 0
+Time Limit Exceeded (5.07 s)
+
+Score from 100000: 0
+
+Total Execution Time: 65835 ms
+
