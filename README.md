@@ -9,5 +9,4 @@
 
 * [مکتب‌خونه](https://maktabkhooneh.org/course/آموزش-طراحی-الگوریتم-دکتر-شریفی-زارچی-mk662)
 * [درس‌افزار دانشگاه صنعتی شریف](https://ocw.sharif.edu/course/id/267)
-* [درس‌افزار دانشگاه صنعتی شریف](https://ocw.sharif.edu/course/id/267)
 
